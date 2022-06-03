@@ -1,4 +1,4 @@
-# Tarea 3
+# Informe Tarea 3
 ## CIRCUITOS EN SERIE - CIRCUITOS EN PARALELO
 ### 1. OBJETIVOS
 
