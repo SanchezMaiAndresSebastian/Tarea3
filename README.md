@@ -13,8 +13,38 @@
 - Distinguir las siguientes problemáticas que puedan ocurrir en la construcción de un circuito en serie y en paralelo.
 - 
 ### 2. MARCO TEORICO
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/1.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/2.png)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-01.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-02.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-03.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-04.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-05.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-06.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-07.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-08.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-09.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-10.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-11.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-12.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-13.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-14.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-15.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-16.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-17.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-18.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-19.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-20.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-21.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-22.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-23.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-24.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-25.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-26.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-27.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-28.png)
 
 ### 4. VIDEO
 
