@@ -50,7 +50,7 @@
 
 ### 4. VIDEO
 
-- https://uespe-my.sharepoint.com/:v:/g/personal/assanchez11_espe_edu_ec/EbIaHiTtY6xIv5KFuTlsjRYBRXpcoJvGrky0BO0A6MrGeg?email=assanchez11%40espe.edu.ec
+https://youtu.be/zqn4ZFNJdAY
 
 ### 5. CONCLUSIONES
 
