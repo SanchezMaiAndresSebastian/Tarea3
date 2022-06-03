@@ -14,7 +14,9 @@
 - 
 ### 2. MARCO TEORICO
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/1.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/3.png)
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/2.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/4.png)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/Tarea%203-%20Fund.%20de%20Circuitos%202022a-01.png)
